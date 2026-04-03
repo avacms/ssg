@@ -2,7 +2,7 @@
 
 A plugin for [Ava CMS](https://github.com/avacms/ava) that generates a complete static HTML site from your content. Deploy to GitHub Pages, Netlify, Cloudflare Pages, S3, or any static hosting provider — no PHP required on the production server.
 
-> **Alpha software.** This plugin is under early development and testing. It works for common site structures but may have edge cases with complex routing, custom plugin routes, or unusual configurations. Please report issues and test thoroughly before deploying to production.
+> **Alpha software.** This plugin is under early development and testing. It could work for common site structures but will have edge cases with complex routing, custom plugin routes, or unusual configurations. Please report issues and test thoroughly before deploying to production.
 
 ## Features
 
