@@ -1,0 +1,13 @@
+# Plugin output (when built inside the plugin dir)
+/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
